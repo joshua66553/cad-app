@@ -1,4 +1,4 @@
 {
-  "version":"1.0.0",
-  "notes":"Added: Started to make the resource."
+  "version":"1.0.1",
+  "notes":"Added: Made a little update"
 }
