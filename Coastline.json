@@ -1,0 +1,10 @@
+{
+  "CoastlineCad": {
+      "version":"1.0.1",
+      "notes":"Added: The base of the cad"
+  },
+  "CoastlineScripts": {
+      "version":"1.0.1",
+      "notes":"Added: The base of the code foe the script."
+  }
+}
